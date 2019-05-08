@@ -1,0 +1,70 @@
+{
+  "additional_context": "kidney transplant at age 22",
+  "date": null,
+  "over18": "yes",
+  "who_are_you": "patient",
+  "adverse_events": [{
+    "dates": {
+      "start": "2019-05-06",
+      "end": "2019-05-07"
+    },
+    "event.term": "headache",
+    "event.type": "verbatim",
+    "outcome": "improved",
+    "seriousness": ["not_serious"]
+  }],
+  "causes": [{
+    "indication.term": null,
+    "indication.type": null
+  }],
+  "concomitant_products": {
+    "assessment": "no",
+    "items": []
+  },
+  "hcp_details": {
+    "name": "dr ahi bolit",
+    "phone": "0980897986"
+  },
+  "patient": {
+    "birth": {
+      "age": 44,
+      "unit": "year",
+      "type": "age"
+    },
+    "consent": "yes",
+    "gender": "female",
+    "initials": "dg",
+    "pregnant": "unknown"
+  },
+  "report_metadata": {
+    "country": "US",
+    "journey_id": "J001",
+    "language": "en"
+  },
+  "reporter": {
+    "address_line_1": null,
+    "country": null,
+    "county": null,
+    "email": null,
+    "first_name": null,
+    "last_name": null,
+    "personal_info_consent": null,
+    "phone": null,
+    "postcode": null,
+    "town": null
+  },
+  "suspect_products": [{
+    "batch_lot_number.number": "lot123",
+    "batch_lot_number.provided": "yes",
+    "dates": {
+      "start": "2019-05",
+      "end": "2019-05-08"
+    },
+    "dosage.form": null,
+    "dosage.text": "30mg",
+    "expiry_date": "2021-12-21",
+    "indication.term": "an annoying condition",
+    "indication.type": "verbatim",
+    "name": "my product"
+  }]
+}
